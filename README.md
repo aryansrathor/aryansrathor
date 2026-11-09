@@ -15,10 +15,10 @@
 
 I'm a third-year Computer Science & Engineering student who likes turning ideas into working software. I'm focused on building real projects, strengthening my fundamentals, and growing as an engineer.
 
-- 🔭 Currently working on: **add your current project**
-- 🌱 Currently learning: **e.g. Machine Learning, DSA, System Design**
+- 🔭 Currently working on: **Something**
+- 🌱 Currently learning: **Cybersecurity**
 - 🤝 Open to: **internships, collaborations, open-source contributions**
-- 💬 Ask me about: **Python, web development, AI/ML**
+- 💬 Ask me about: **Python, web development, Linux **
 - 📍 Based in: **Pune, Maharashtra, India**
 
 ## 🛠️ Tech Stack
@@ -69,10 +69,10 @@ I'm a third-year Computer Science & Engineering student who likes turning ideas 
 
 <div align="center">
 
-<a href="https://github.com/aryansrathor/REPO_NAME_1">
+<a href="https://github.com/aryansrathor/renusagar-mis-dashboard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryansrathor&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
 </a>
-<a href="https://github.com/aryansrathor/REPO_NAME_2">
+<a href="[https://github.com/aryansrathor/REPO_NAME_2](https://github.com/aryansrathor/Employee-attrition-predictor)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryansrathor&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
 </a>
 
@@ -125,10 +125,10 @@ I'm a third-year Computer Science & Engineering student who likes turning ideas 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="aryansofficial12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/aryan-singh-745318314/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 </p>
